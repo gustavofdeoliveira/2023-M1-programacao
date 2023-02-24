@@ -1,5 +1,8 @@
 # Realizar a montagem do circuito oscilador utilizando o protoboard para validar seu funcionamento; 
+![Alt text](IMG_4221.JPG)
+![Alt text](IMG_4222.JPG)
 
+[Link para vizualização do video](https://github.com/gustavofdeoliveira/2023-M1-programacao/blob/main/Semana-03/IMG_4223.MOV).
 # Construir o circuito utilizando o EasyEDA
 
 # Construir o circuito elaborado;
