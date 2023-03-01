@@ -5,9 +5,13 @@
 
 [Link para vizualização do video](https://github.com/gustavofdeoliveira/2023-M1-programacao/blob/main/Semana-03/IMG_4223.MOV).
 # Construir o circuito utilizando o EasyEDA
-## OBS - Não consegui encontrar o LED Through hole no easyeda, sendo assim, utilizei o mais próximo possivel.
+
 ![Alt text](Schematic_atividade_semana_03_2023-02-26.png)
+<br>
+
+![Alt text](PCB_PCB_atividade_semana_03_2023-02-28.png)
 # Construir o circuito elaborado;
+
 ![Alt text](IMG_4204.JPG)
 
 ![Alt text](IMG_4208.JPG)
