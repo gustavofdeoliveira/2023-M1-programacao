@@ -1,0 +1,19 @@
+//This is your Prisma schema file
+datasource db {
+    provider = "sqlite"
+    url      = "file:database.db"
+}
+//Create a model for each table in your database
+generator db {
+    provider  = "prisma-client-py"
+    interface = "sync"
+}
+//Define a Coordinate model here
+model Coordinate {
+    id          Int      @id @default(autoincrement())
+    coordinateX Float
+    coordinateY Float
+    coordinateZ Float
+    coordinateR Float
+    createdAt   DateTime @default(now())
+}
