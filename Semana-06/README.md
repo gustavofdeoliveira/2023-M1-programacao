@@ -1,9 +1,9 @@
 # Para rodar o projeto
 
-### Dentro da pasta ENV rode o seguinte comando:
+### Na pasta raiz, rode o seguinte comando:
     pip install flask prisma
 
-### Ainda dentro da pasta ENV
+### Ainda dentro da pasta raiz, rode o seguinte comando:
     prisma migrate dev
 
 ### O terminal pedira para digitar algum nome para a migração:
